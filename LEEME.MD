@@ -6,7 +6,7 @@
 
 ### Modalidades de instalación
 * Método sencillo:
-* [Descargar](https://codeload.github.com/imhicihu/Biblio-offline-searcher/zip/refs/heads/main) este repositorio
+	* [Descargar](https://codeload.github.com/imhicihu/Biblio-offline-searcher/zip/refs/heads/main) este repositorio
 	* Descomprimir `Biblio-offline-searcher-main.zip`.
 	* Doble clic en `index.html`
 	* Voilà!
