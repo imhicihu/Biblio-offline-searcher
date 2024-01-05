@@ -11,10 +11,15 @@
 	* Double-click on `index.html`
 	* Voilà!
 * _Techie_ method:
+	* In your terminal, [clone](https://github.com/imhicihu/Biblio-offline-searcher.git) this repository
+	<BR></BR>
+	![graphics.png](dist/images/clone.png)
+	* Double-click on `index.html`
+	* Voilà!
 ### Tests
 * Tested & validated in these web browsers:
 
-| Browser | validate |
+| Browser (Mac & PC) | Test passed |
 |:--|:--|
 | Internet Explorer | ✓ |
 | Microsoft Edge | ✓ |
