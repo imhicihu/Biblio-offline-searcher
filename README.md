@@ -28,9 +28,9 @@
 | Apple Safari Technology Preview| ✓ |
 | Google Chrome | ✓ |
    
-### Who do I talk to? ###
+### Who do I talk to?
 * Repo owner or admin
     - Contact `imhicihu` at `gmail` dot `com`
       
-### License ###
+### License
 * The content of this project itself is licensed under the [MIT Licence](LICENSE)
