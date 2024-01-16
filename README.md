@@ -12,7 +12,6 @@
 	* Voilà!
 * _Techie_ method:
 	* In your terminal, [clone](https://github.com/imhicihu/Biblio-offline-searcher.git) this repository
-	<BR></BR>
 	![graphics.png](dist/images/clone.png)
 	* Double-click on `index.html`
 	* Voilà!
