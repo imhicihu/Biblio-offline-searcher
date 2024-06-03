@@ -28,9 +28,8 @@
 | Apple Safari Technology Preview| ✓ |
 | Google Chrome| ✓ |
    
-### ¿Con quién hablo?
-* Propietario o administrador del repositorio
-    - Póngase en contacto con `imhicihu` arroba `gmail` punto `com`
+### Descargo
+* Este repositorio es sólo para fines académicos. Está destinado al uso educativo y de investigación, y no debe utilizarse con fines comerciales.
       
 ### Licencia
 * El contenido de este proyecto está licenciado bajo la [Licencia MIT](LICENSE)
