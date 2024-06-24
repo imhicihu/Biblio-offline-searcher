@@ -7,8 +7,8 @@
 ### Modalidades de instalación
 * Método sencillo:
 	* [Descargar](https://codeload.github.com/imhicihu/Biblio-offline-searcher/zip/refs/heads/main) este repositorio
-	* Descomprimir `Biblio-offline-searcher-main.zip`.
-	* Doble clic en `index.html`
+	* Descomprimir `Biblio-offline-searcher-main.zip`
+	* Doble clic en [index.html](https://refined-github-html-preview.kidonng.workers.dev/imhicihu/Biblio-offline-searcher/raw/main/index.html)
 	* Voilà!
 * Método _Techie_:
 	* En tu terminal, [clonar](https://github.com/imhicihu/Biblio-offline-searcher.git) este repositorio
@@ -27,6 +27,7 @@
 | Apple Safari| ✓ |
 | Apple Safari Technology Preview| ✓ |
 | Google Chrome| ✓ |
+| Brave| ✓ |
    
 ### Descargo
 * Este repositorio es sólo para fines académicos. Está destinado al uso educativo y de investigación, y no debe utilizarse con fines comerciales.
