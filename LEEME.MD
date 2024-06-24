@@ -14,7 +14,7 @@
 	* En tu terminal, [clonar](https://github.com/imhicihu/Biblio-offline-searcher.git) este repositorio
 	<BR></BR>
 	![graphics.png](dist/images/clone.png)
-	* Doble clic en `index.html`
+	* Doble clic en [index.html](https://refined-github-html-preview.kidonng.workers.dev/imhicihu/Biblio-offline-searcher/raw/main/index.html)
 	* Voilà!
 ### Comprobaciones
 * Probado y validado en estos navegadores web:
