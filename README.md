@@ -1,14 +1,14 @@
 ## RATIONALE ([JUSTIFICACIÓN](LEEME.MD))
 
 * Internal tool for diagnostic and test and now to the masses! So, no internal or interlinked images, minimal javascript, no code of conduct, no tracking codes... all of this results and just only involves a database searcher of our library and open to everyone!
-* The goals proposed and achieved have been minimalism in its design, consistency with other tools soon to be [realised](https://biblio-searcher.surge.sh/), and speed of response on data request
+* The goals proposed and achieved have been minimalism in its design, consistency with other tools soon to be [realized](https://biblio-searcher.surge.sh/), and speed of response on data request
 * This repo is a living document that _will_ grow and adapt over time
 
 ### Installation procedures
 * Simple method:
 	* [Download](https://codeload.github.com/imhicihu/Biblio-offline-searcher/zip/refs/heads/main) this repository
 	* Unzip `Biblio-offline-searcher-main.zip`
-	* Double-click on `index.html`
+	* Double-click on [index.html](https://refined-github-html-preview.kidonng.workers.dev/imhicihu/Biblio-offline-searcher/raw/main/index.html)
 	* Voilà!
 * _Techie_ method:
 	* In your terminal, [clone](https://github.com/imhicihu/Biblio-offline-searcher.git) this repository
