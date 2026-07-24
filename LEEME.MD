@@ -1,4 +1,12 @@
-## JUSTIFICACIÓN
+```
+                                                                                                     
+,---.o|    |    o              ,---.,---.|    o                                       |              
+|---..|---.|    .,---.    ,---.|__. |__. |    .,---.,---.    ,---.,---.,---.,---.,---.|---.,---.,---.
+|   |||   ||    ||   |    |   ||    |    |    ||   ||---'    `---.|---',---||    |    |   ||---'|    
+`---'``---'`---'``---'    `---'`    `    `---'``   '`---'    `---'`---'`---^`    `---'`   '`---'`    
+```
+
+## Justificación / [Rationale](README.md)
 
 * Herramienta interna de diagnóstico y prueba y a partir de ahora... ¡para todo el mundo! Entonces, nada de imágenes internas o entrelazadas, archivos javascript al mínimo, nada de `Códigos de conducta`, menos códigos de rastreo... ¡todo esto resulta y sólo implica un buscador minimalista de registros bibliográficos -precisamente de nuestra biblioteca- y abierto para todos!
 * Los objetivos propuestos y alcanzados han sido el minimalismo en su diseño; la cooperación, ensamblado y sinergia entre distintas tecnologías para encajar con otras [herramientas](https://biblio-searcher.surge.sh/) que pronto se presentarán; pasando por la velocidad de respuesta en la solicitud de datos
