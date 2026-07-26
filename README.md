@@ -16,7 +16,7 @@
 * Simple method:
 	* [Download](https://codeload.github.com/imhicihu/Biblio-offline-searcher/zip/refs/heads/main) this repository
 	* Unzip `Biblio-offline-searcher-main.zip`
-	* Double-click on [index.html](https://refined-github-html-preview.kidonng.workers.dev/imhicihu/Biblio-offline-searcher/raw/main/index.html)
+	* Double-click on [index.html](https://github.com/imhicihu/Biblio-offline-searcher/blob/main/index.html)
 	* Voilà!
 * _Techie_ method:
 	* In your terminal, [clone](https://github.com/imhicihu/Biblio-offline-searcher.git) this repository
