@@ -40,4 +40,4 @@
 * Este repositorio es sólo para fines académicos. Está destinado al uso educativo y de investigación, y no debe utilizarse con fines comerciales.
       
 ### Licencia
-* El contenido de este proyecto está licenciado bajo la [Licencia MIT](LICENSE)
+* El contenido de este proyecto está licenciado bajo una [Licencia MIT](LICENSE)
